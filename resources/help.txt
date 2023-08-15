@@ -1,0 +1,4 @@
+here is a list of command:
+-/help => shows you this list
+-/search => search for a anime watch order using /search <NAME>.(EXAMPLE /search One Piece)
+-/list => shows you available anime's in our database to be used with search
